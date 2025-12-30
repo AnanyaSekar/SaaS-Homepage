@@ -10,7 +10,6 @@ body {
     color: #111827;
 }
 
-/* Navbar */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -37,8 +36,6 @@ nav .btn {
     color: white;
     border-radius: 6px;
 }
-
-/* Hero */
 .hero {
     display: flex;
     align-items: center;
@@ -94,7 +91,6 @@ nav .btn {
     box-shadow: 0 10px 25px rgba(0,0,0,0.05);
 }
 
-/* Pricing */
 .pricing {
     padding: 80px 60px;
     background: #f3f4f6;
@@ -125,15 +121,12 @@ nav .btn {
 .highlight {
     border: 2px solid #6366f1;
 }
-
-/* CTA */
 .cta {
     padding: 70px;
     text-align: center;
     background: linear-gradient(135deg, #6366f1, #8b5cf6);
     color: white;
 }
-
 .cta button {
     margin-top: 20px;
     padding: 14px 30px;
@@ -143,8 +136,6 @@ nav .btn {
     color: #6366f1;
     font-size: 16px;
 }
-
-/* Footer */
 footer {
     padding: 20px;
     text-align: center;
